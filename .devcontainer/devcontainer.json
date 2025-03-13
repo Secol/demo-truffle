@@ -1,0 +1,5 @@
+{
+	"name": "DevContainer",
+	"image": "python:3.12",
+	"postCreateCommand": "pip install web3",
+}
